@@ -1,6 +1,7 @@
 # CO2 Emissions Challenge
 
 [Demo page](https://lingchen4.github.io/World-CO2-emission-vs-years/)
+
 Use `npm i` or `yarn install` to install required package
 You can email ling.duke@gmail.com for any questions.
 
